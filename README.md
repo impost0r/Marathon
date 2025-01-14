@@ -5,6 +5,8 @@ Marathon is open-source and free-to-use for all, though you can support me via p
 
 Marathon will be continually updated as I audit the IL codebase (Assembly-CSharp.dll) of VTS. 
 
+Installation instructions: Take the release download of Marathon from the Releases page and extract it to the root directory of VTube Studio (where VTube Studio.exe is).
+
 ### What about model stealing?
 
 Model stealing will come as a SaaS bundle for an "anticheat" for VTS, VBridger, OBS, etc. It'll encompass a WHQL signed driver (first to be signed with an EV certificate). As EV certificates and WHQL certification is expensive, the driver will be sold for the price of $100 USD, per month.
