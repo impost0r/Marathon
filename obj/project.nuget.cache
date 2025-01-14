@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "ArEIoGgqJGA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Marathon\\Marathon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\bepinex.core\\6.0.0-be.729\\bepinex.core.6.0.0-be.729.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\bepinex.plugininfoprops\\2.1.0\\bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\bepinex.unity.mono\\6.0.0-be.729\\bepinex.unity.mono.6.0.0-be.729.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\harmonyx\\2.10.2\\harmonyx.2.10.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.2\\microsoft.netframework.referenceassemblies.net46.1.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\monomod.runtimedetour\\22.3.23.4\\monomod.runtimedetour.22.3.23.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\monomod.utils\\22.7.31.1\\monomod.utils.22.7.31.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\semanticversioning\\2.0.2\\semanticversioning.2.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\unity.inputsystem\\1.5.0\\unity.inputsystem.1.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\unityengine\\5.6.1\\unityengine.5.6.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\unityengine.modules\\3.4.0\\unityengine.modules.3.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency UnityEngine.Modules does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "UnityEngine.Modules",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6"
+      ]
+    }
+  ]
+}
